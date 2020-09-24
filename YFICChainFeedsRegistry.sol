@@ -1,4 +1,4 @@
-YFICSwap Smart Contract Source Code
+YFICSwap Smart Contract Source Code :
 C 2020
 
 pragma solidity ^0.5.0;
